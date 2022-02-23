@@ -11,17 +11,17 @@ export default function Profile() {
             <div className="cols-icon">
             
               <a href="https://www.facebook.com/profile.php?id=100009031677827">
-                <i className="fab fa-facebook-square" aria-hidden="true" size='8x'></i>
+                <i className="fab fa-facebook-square"  size='8x'></i>
               </a>
               
               <a href="https://https://github.com/konica16">
-                <i className="fab fa-github-square" aria-hidden="true"></i>
+                <i className="fab fa-github-square" ></i>
               </a>
               <a href="http://www.linkedin.com/in/konica26">
-                <i className="fab fa-linkedin-square" aria-hidden="true"></i>
+                <i className="fab fa-linkedin-square" ></i>
               </a>
               <a href="https://www.instagram.com/jahan_konica/">
-                <i className="fab fa-instagram" aria-hidden="true"></i>
+                <i className="fab fa-instagram" ></i>
               </a>
             </div>
           </div>
