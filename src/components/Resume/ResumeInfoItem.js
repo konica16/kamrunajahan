@@ -10,18 +10,22 @@ justify-content : flex-start;
 margin-top:3rem;
 position: relative;
 .title{
-    font-size: 2.0rem;
+    font-size: 2rem;
+    color: black;
 }
 .items{
     display: flex;
     gap: 2rem;
     position: absolute;
     left: 3rem;
+    
 }
 .item{
-    background-color: lightskyblue;
-    padding: 0.1rem;
-    border-radius: 6px;
+    background-color:  #04202e;
+    padding: 0.8rem;
+    border-radius: 24px;
+    font-size: 1.0rem;
+    
 }
 @media only screen and (max-width:768px){
     flex-direction: column;

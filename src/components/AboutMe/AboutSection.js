@@ -41,13 +41,7 @@ padding: 10rem 0;
     justify-content: flex-start;
     gap: 2rem;
     margin-top: 2rem;
-    
-    
-    /* border-radius: 50px;
-    color: var(--white);
-    border: 2px solid linen;
-    text-size-adjust: 5px;
-    background-color: #1f2235; */
+        
 }
 
 @media only screen and (max-width: 950px) {
@@ -82,6 +76,7 @@ padding: 10rem 0;
 .aboutsection-buttons{
     flex-direction: column;
     gap: 0rem;
+    
     .button-wrapper,
     a{
         width: 100%;

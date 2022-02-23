@@ -1,11 +1,13 @@
 .home-container{
+    background-size: contain;
     display: flex;
     flex-direction: column;
     justify-content: space-between;      
     min-height: 670px;
-    background-color: 	#2e5d63; 
+    /* background-color: 	#2e5d63;  */
      /* background-color: rgb(255, 122, 140);  */
-     /* background-image: url("../../assets/Images/backg.jpg");  */
+     background-image: url("../../assets/Images/anotherbg.jpeg"); 
+     
 
     
 }

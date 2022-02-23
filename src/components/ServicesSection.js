@@ -13,6 +13,7 @@ const ServicesItemsStyles = styled.div`
     gap: 10rem;
     justify-content: space-between;
     margin-top: 5rem;
+    color: yellow;
   }
   
   @media only screen and (max-width: 768px) {

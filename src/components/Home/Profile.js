@@ -11,17 +11,17 @@ export default function Profile() {
             <div className="cols-icon">
             
               <a href="https://www.facebook.com/profile.php?id=100009031677827">
-                <i className="fab fa-facebook-square" aria-hidden="true" size='8x'></i>
+                <i className="fa fa-facebook-square" aria-hidden="true" size='8x'></i>
               </a>
               
               <a href="https://https://github.com/konica16">
-                <i className="fab fa-github-square" aria-hidden="true"></i>
+                <i className="fa fa-github-square" aria-hidden="true"></i>
               </a>
               <a href="http://www.linkedin.com/in/konica26">
-                <i className="fab fa-linkedin-square" aria-hidden="true"></i>
+                <i className="fa fa-linkedin-square" aria-hidden="true"></i>
               </a>
               <a href="https://www.instagram.com/jahan_konica/">
-                <i className="fab fa-instagram" aria-hidden="true"></i>
+                <i className="fa fa-instagram" aria-hidden="true"></i>
               </a>
             </div>
           </div>
@@ -58,12 +58,13 @@ export default function Profile() {
               {""}
               Hire Me{" "}
             </button>
-            {/* <a href="Kamruna Jahan.pdf" download="Kamruna Jahan.pdf">
-              <button className="btn highlighted-btn">Get Resume In Pdf</button>
-            </a> */}
+            
             <a href="https://konicaresume.000webhostapp.com/">
               <button className="btn highlighted-btn">My Resume Website</button>
             </a>
+            {/* <a href="Kamruna Jahan.pdf" download="Kamruna Jahan.pdf">
+              <button className="btn highlighted-btn">Get Resume In Pdf</button>
+            </a> */}
           </div>
         </div>
         <div className="profile-picture">

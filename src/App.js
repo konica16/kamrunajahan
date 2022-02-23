@@ -8,7 +8,7 @@ import Resume from "./components/Resume/Resume";
 import Testimonial from "./components/Testimonial/Testimonial";
 import Projects from "./components/Projects/Projects";
 import SmoothScrollBar from "./components/SmoothScrollBar";
-import Footer from "./components/Footer";
+//import Footer from "./components/Footer";
 //import ScrollToTop from "./components/ScrollToTop";
 
 export default function App() {
@@ -38,7 +38,7 @@ export default function App() {
           </Route>
         </Routes>
                  
-        <Footer/>
+        
         </SmoothScrollBar>
       </Router>
     </>

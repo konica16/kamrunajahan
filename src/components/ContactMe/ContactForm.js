@@ -4,21 +4,25 @@ import styled from 'styled-components';
 
 const FormStyle = styled.form`
 width: 100%;
+background-color: #04202e;
+text-align: center;
 /* background-image:"url('https://www.google.com/search?q=images+for+website+background&sxsrf=APq-WBtxUJJbw2NbplO3ePGTJJp_qivSTg:1645180167409&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZ6eDbhYn2AhUj73MBHWjZBpwQ_AUoAXoECAEQAw&biw=1366&bih=625&dpr=1#imgrc=70nrGpfEpxY1gM')" ;
 background-position: center; */
 .form-group{
     width: 100%;
     margin-bottom: 2rem;
+    
 }
 label{
     font-size: 1.5rem;
+    color: white;
 }
 input,
 textarea{
     width: 100%;
-    font-size: 2rem;
+    font-size: 1.7rem;
     padding: 0.7rem;
-    color: aliceblue;
+    color: #111;
     background-color: yellow;
     border: none;
     outline: none;

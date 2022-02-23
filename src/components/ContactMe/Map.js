@@ -12,7 +12,7 @@ min-height: 250px;
 
 .container{
     position: relative;
-    min-height: 300px;
+    min-height: 250px;
     margin-bottom: 5rem;
 }
 .map-card{
@@ -37,6 +37,7 @@ min-height: 250px;
     }
     .para{
       font-size: 1.5rem;
+      color: #04202e;
     }
     @media only screen and (max-width: 768px) {
     background-position: 80% center;

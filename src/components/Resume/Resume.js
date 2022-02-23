@@ -11,6 +11,7 @@ import SectionTitle from '../SectionTitle';
 const ResumeStyles = styled.div`
 
 padding:20rem 0 10rem 0;
+
 margin-top: 4rem;
 .top-section{
   display:flex ;
@@ -28,16 +29,19 @@ margin-top: 4rem;
 .resume-subheading{
   font-size: 2rem;
   margin-bottom: 2rem;
+  color: yellow;
   span{
     background-color: lightskyblue;
     padding: 0.5rem;
     border-radius: 8px;
+    color: #000;
     
   }
 }
 .resume-heading{
   font-size: 2.6rem;
   margin-bottom: 3rem;
+  color: #000;
 }
 .resume-info{
   margin-bottom: 4rem;
@@ -92,6 +96,7 @@ margin-top: 4rem;
     }
     .resume-subheading{
       font-size: 1.8rem;
+      
 
     }
     .resume-heading{

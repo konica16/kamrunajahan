@@ -14,6 +14,7 @@ padding: 10rem 0;
   margin-top: 7rem;
   justify-content: space-between;
   position: relative;
+  
 }
 .contactme-section-wrapper::after{
   position: absolute;
@@ -29,6 +30,8 @@ padding: 10rem 0;
   width: 100%;
   max-width: 500px;
   
+  
+    
 }
 .right{
   max-width: 500px;

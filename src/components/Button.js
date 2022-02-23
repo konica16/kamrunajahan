@@ -9,7 +9,7 @@ const ButtonStyle = styled.div`
     text-align: center;
     align-items: right;
     background-color: ${(props) =>
-    props.outline ? 'transperant' : 'yellow'};
+    props.outline ? '#1f2235' : 'yellow'};
     padding: 14px 0;
     width: 160px;
     border: 2px solid wheat;
@@ -17,7 +17,7 @@ const ButtonStyle = styled.div`
     font-family: "Poppins SemiBold";
     border-radius: 50px;
     display: inline-block;
-    color: ${(props) => (props.outline ? 'var(--gary-1)' : 'black')};
+    color: ${(props) => (props.outline ? 'var(--white)' : 'black')};
     cursor: pointer;
   transition: 0.2s;
   }

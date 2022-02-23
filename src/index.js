@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import GlobalStyle  from '../src/components/styles/GlobalStyle';
-//import Typography from "../src/components/styles/Typography"
+
 
 ReactDOM.render(
   <>

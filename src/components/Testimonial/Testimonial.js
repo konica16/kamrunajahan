@@ -6,6 +6,7 @@ import styled from 'styled-components';
 import {MdArrowBack, MdArrowForward} from 'react-icons/md'
 import testimonials from '../../assets/data/testimonials';
 const TestimonialStyle = styled.div `
+
 padding : 10rem 0;
 text-align : center;
 .testimonial-wrapper{
@@ -27,14 +28,15 @@ text-align : center;
     text-align : center;
     font-size : 17px;
     margin-left: 60px;
+    color: #04202e;
   }
 }
 .testimonial-name{
   margin-top:4rem ;
   font-family : 'Poppins Bold';
-  font-size:14px;
-  
+  font-size:14px;  
 }
+
 .testimonial-title{
   font-size: 13px ;
   margin-top: 0.3rem;

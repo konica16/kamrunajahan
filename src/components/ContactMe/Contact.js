@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from '../Footer'
 import ContactMe from './ContactMe'
 import Map from './Map'
 
@@ -8,6 +9,7 @@ Contact() {
     <div>
     <ContactMe/>
     <Map/>
+    <Footer/>
 
     </div>
   )

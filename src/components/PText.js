@@ -6,6 +6,7 @@ const PStyle = styled.div`
   margin-left : 0rem;
   font-size: 1.7rem;
   line-height: 1.3em;
+  color: whitesmoke;
   
   
   @media only screen and (max-width: 768px) {

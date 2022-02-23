@@ -6,7 +6,7 @@ import PText from '../PText'
 const ItemStyles =styled.div`
 
 padding: 0.7rem;
-background-color: yellow;
+background-color: #04202e;
 display: flex;
 align-items: center;
 gap: 2rem;
@@ -14,8 +14,8 @@ border-radius: 8px;
 margin-bottom: 2rem;
 margin-top: 4rem;
 .icon{
-    color: white;
-    background-color: #04202e;
+    color: #04202e;
+    background-color: yellow;
     padding: 0.7rem;
     display: flex;
     align-items: center;

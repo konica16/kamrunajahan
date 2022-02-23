@@ -8,17 +8,15 @@ const ContactBannerStyles = styled.div `
 padding : 10rem 0;
 
 .contactbanner-wrapper{
-    background-color : lightskyblue;
+    background-color : #04202e;
     border-radius: 12px;
     padding: 5rem 0rem;
     text-align:center;
-    
-    
-    
-    
+       
 }
 .contactbanner-heading{
     font-size: 4rem;
+    color: yellow;
     
 }
 .para{
@@ -40,7 +38,7 @@ export default function ContactBanner() {
       <div className='container'>
           <div className='contactbanner-wrapper '>
               <PText >
-                  Have aproject in mind?
+                  Have a project in mind?
               </PText>
               <h3 className='contactbanner-heading'>
                   Let Me Help You
